@@ -1,0 +1,75 @@
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: 550;
+    font-size: 15px;
+    color: #725f5f;
+    width: 25px;
+    margin-left: 4%;
+  }
+  #fashion{
+    width: 100%;
+    margin-top: 2%;
+   
+  }
+  .words{
+    margin-top:-39%
+  }
+  .deeh{
+    margin-top: -2%;
+    background-color: fuchsia;
+  }
+  .join{
+    
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   margin-top: 40%;
+  }
+  #say {
+    margin-top: 40%;
+    height: 55%;
+    width: 80%;
+
+  }
+  #hey{
+    margin-top: 40% ;
+    height: 55%;
+  }
+  #zoom{
+    margin-top: 40%;
+    
+  }
+  #zeel{
+    margin-top: 40%;
+    
+  }
+  .A{
+    margin-top: 8%;
+    margin-left: 40%;
+  }
+  .A{
+    background-color: fuchsia;
+    width: 20%; 
+  }
+  #shoes{
+    height: 30%;
+    width:50% ;
+
+  }
+  .inch{
+    margin: bottom -10%;
+  }
+  .z{
+    margin-top: -10%;
+  }
+  .r{
+    margin-top: -10%;
+  }
+.hez{
+margin-left: 44%;
+}
+#you{
+ margin-top: -15%;
+}
+  
