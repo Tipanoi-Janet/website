@@ -20,6 +20,8 @@ nav ul li {
     margin-top: -2%;
     background-color: fuchsia;
   }
+   
+  
   .join{
     
    display: grid;
@@ -66,10 +68,7 @@ nav ul li {
   .r{
     margin-top: -10%;
   }
-.hez{
-margin-left: -20%;
 
-}
 .you{
   margin-top: -18%;
   padding-left: 30%;
@@ -79,9 +78,30 @@ margin-left: -20%;
   margin-top: 10%;
  }
  #bite{
-  margin-left: 60%;
-  margin-top: -30%;
-  width: 40%;
+  margin-left: 50%;
+  margin-top: -55%;
+  width: 44%;
   height: 30%;
  }
- 
+ .footer2{
+  margin-left: 35%;
+  margin-top: -10%;
+ }
+ .footer3{
+  margin-left: 20%;
+  margin-top: -10%;
+  
+ }
+ .footer4{
+  margin-left: 50%;
+  margin-top: -10%;
+ }
+ .B{
+  background-color: antiquewhite;
+  width: 19%;
+ }
+ .C{
+  background-color: deeppink;
+  font-size: medium;
+  width: 19%;
+ }
